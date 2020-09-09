@@ -48,6 +48,7 @@ class Resume extends Component {
 
          <div className="nine columns main-col">
           {work}
+          <h3>I am a Student and currently searching for Internship as Backend or ReactJS developer.</h3>
         </div>
     </div>
 
